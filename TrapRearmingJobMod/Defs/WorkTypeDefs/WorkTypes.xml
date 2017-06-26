@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkTypeDefs>
+
+  <WorkTypeDef>
+    <defName>TrapRearming</defName>
+    <labelShort>Trap Rearm</labelShort>
+    <pawnLabel>Trap Rearmer</pawnLabel>
+    <gerundLabel>Rearming</gerundLabel>
+    <description>Rearm traps.</description>
+    <verb>Rearm</verb>
+    <naturalPriority>1130</naturalPriority>
+    <requireCapableColonist>true</requireCapableColonist>
+  </WorkTypeDef>
+  
+</WorkTypeDefs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[A17] Trap Rearming Job Mod</name>
+  <author>Bryan Bettis</author>
+  <description>Creates a new job for rearming traps. Rearming traps can still be done by pawns with the hauling job enabled. The priority is set just below the Flick job, and below the Refueling job if my Refueling Job Mod is also enabled.</description>
+  <targetVersion>0.17.1557</targetVersion>
+</ModMetaData>
