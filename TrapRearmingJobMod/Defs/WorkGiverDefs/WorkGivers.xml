@@ -2,17 +2,16 @@
 <WorkGivers>
 
   <WorkGiverDef>
-    <defName>TrapReset</defName>
-    <label>refuel fuelable buildings</label>
-    <giverClass>WorkGiver_Refuel</giverClass>
-    <workType>Refueling</workType>
-    <verb>refuel</verb>
-    <gerund>refueling</gerund>
-    <priorityInType>60</priorityInType>
+    <defName>RearmerRearmTraps</defName>
+    <label>rearm traps</label>
+    <giverClass>WorkGiver_RearmTraps</giverClass>
+    <workType>TrapRearming</workType>
+    <verb>rearm</verb>
+    <gerund>rearming</gerund>
+    <priorityInType>50</priorityInType>
     <requiredCapacities>
       <li>Manipulation</li>
     </requiredCapacities>
-    <prioritizeSustains>true</prioritizeSustains>
   </WorkGiverDef>
 
 </WorkGivers>
