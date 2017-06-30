@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <TrapRearming.labelShort>함정 재장전</TrapRearming.labelShort>
+    <TrapRearming.pawnLabel>재장전자</TrapRearming.pawnLabel>
+    <TrapRearming.gerundLabel>재장전</TrapRearming.gerundLabel>
+    <TrapRearming.description>함정을 재장전 합니다.</TrapRearming.description>
+    <TrapRearming.verb>재장전</TrapRearming.verb>
+
+</LanguageData>

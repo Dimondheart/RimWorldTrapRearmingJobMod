@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <TrapRearming.labelShort>Trap Rearm</TrapRearming.labelShort>
+    <TrapRearming.pawnLabel>Trap Rearmer</TrapRearming.pawnLabel>
+    <TrapRearming.gerundLabel>Rearming</TrapRearming.gerundLabel>
+    <TrapRearming.description>Rearm traps.</TrapRearming.description>
+    <TrapRearming.verb>Rearm</TrapRearming.verb>
+
+</LanguageData>
